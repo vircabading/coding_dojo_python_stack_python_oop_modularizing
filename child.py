@@ -2,3 +2,7 @@
 # Subj: Coding Dojo > Python Stack > Python > OOP: Modularizing
 # By:   Virgilio D. Cabading Jr.    Created: October 26, 2021
 # //////////////////////////////////////////////////////////////
+
+import parent
+
+print(locals())
